@@ -1,0 +1,56 @@
+[
+  {
+    "id": "demo-vakantie-album",
+    "title": "Mijn Eerste FotoShow",
+    "description": "Een voorbeeldalbum om de vloeiende overgangen, Ken Burns effecten en muziek te bekijken. Voeg je eigen foto’s toe via Google Photos of upload vanaf je apparaat!",
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "items": [
+      {
+        "id": "item-1",
+        "type": "PHOTO",
+        "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&auto=format&fit=crop&q=80",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&auto=format&fit=crop&q=80",
+        "filename": "Zonsondergang_aan_zee.jpg",
+        "mimeType": "image/jpeg",
+        "durationSeconds": 5,
+        "caption": "Rustgevende zonsondergang aan de kust",
+        "transition": "fade"
+      },
+      {
+        "id": "item-2",
+        "type": "PHOTO",
+        "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1920&auto=format&fit=crop&q=80",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400&auto=format&fit=crop&q=80",
+        "filename": "Berglandschap_ochtend.jpg",
+        "mimeType": "image/jpeg",
+        "durationSeconds": 4,
+        "caption": "Ochtendwandeling tussen de besneeuwde toppen",
+        "transition": "zoom"
+      },
+      {
+        "id": "item-3",
+        "type": "PHOTO",
+        "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1920&auto=format&fit=crop&q=80",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400&auto=format&fit=crop&q=80",
+        "filename": "Vallei_in_de_herfst.jpg",
+        "mimeType": "image/jpeg",
+        "durationSeconds": 4.5,
+        "caption": "Kleurrijke herfstkleuren in de bergen",
+        "transition": "slide"
+      }
+    ],
+    "audio": null,
+    "settings": {
+      "defaultPhotoDuration": 4,
+      "defaultTransition": "fade",
+      "kenBurnsEnabled": true,
+      "aspectRatio": "16:9",
+      "autoPlay": false,
+      "showCaptions": true,
+      "loopSlideshow": true
+    },
+    "createdAt": "2026-09-28T07:51:21.480Z",
+    "updatedAt": "2026-09-28T07:51:21.481Z",
+    "isShared": false
+  }
+]

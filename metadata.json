@@ -1,0 +1,8 @@
+{
+  "name": "FotoShow - Google Photos Albums & Slideshows",
+  "description": "Maak prachtige online fotoalbums en slideshows met foto's en video's uit Google Photos via de officiële Picker API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
